@@ -1,0 +1,4 @@
+pinecone
+pinecone-text 
+pinecone-notebooks
+langchain_huggingface
